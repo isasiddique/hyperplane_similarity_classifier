@@ -1,0 +1,28 @@
+[
+    {
+        "vectorAssetIdentifier": "VEC-00001",
+        "angularDistanceTelemetry": {
+            "cosineSimilarityCluster0": 0.01,
+            "cosineSimilarityCluster1": -0.1518,
+            "calculatedMaximumProximity": 0.01
+        },
+        "algebraicOptimizationGovernance": {
+            "hyperplaneClassificationState": "SEMANTIC_DRIFT_OUTLIER",
+            "ColossusAgentActionDirective": "ROUTE_TO_UNMANAGED_DATA_POOL",
+            "pipelineResponseStatusCode": 422
+        }
+    },
+    {
+        "vectorAssetIdentifier": "VEC-00002",
+        "angularDistanceTelemetry": {
+            "cosineSimilarityCluster0": 0.1727,
+            "cosineSimilarityCluster1": -0.3831,
+            "calculatedMaximumProximity": 0.1727
+        },
+        "algebraicOptimizationGovernance": {
+            "hyperplaneClassificationState": "SEMANTIC_DRIFT_OUTLIER",
+            "ColossusAgentActionDirective": "ROUTE_TO_UNMANAGED_DATA_POOL",
+            "pipelineResponseStatusCode": 422
+        }
+    }
+]
